@@ -1,0 +1,6 @@
+{
+  "name": "Kuukibot",
+  "tagline": "Friendly air quality twitterbot",
+  "body": "### Kuukibot: tweeting air quality warnings in Texas.\r\nEvery hour, the Texas Commission for Environmental Quality publishes air quality monitor readings for sites throughout the state. We analyzed all of the readings from 2015 and determined a warning threshold for when particular readings are at or near the top. \r\n\r\n## Benzene\r\nChart\r\nInfo about benzene\r\nInfo about our threshold\r\n\r\n### Support or Contact\r\nScientific questions? Contact [Air Alliance Houston](http://airalliancehouston.org).\r\nTechnical questions? Contact [Sketch City](http://sketchcity.org).",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
